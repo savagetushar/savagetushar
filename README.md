@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=savagetushar&show_icons=true&locale=en" alt="savagetushar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savagetushar&" alt="savagetushar" /></p>
+![snake gif](https://github.com/savagetushar/savagetushar/blob/output/ocean.gif)
